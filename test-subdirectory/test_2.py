@@ -7,3 +7,6 @@ def test_new():
 	
 def test_new2():
     assert capital_case('phore') == 'Phore'
+
+def test_new2_Negative():
+    assert capital_case('ph') == 'Phore'
