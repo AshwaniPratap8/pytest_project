@@ -12,6 +12,7 @@ colorama==0.4.4
 configparser==5.0.1
 dateparser==1.0.0
 defusedxml==0.6.0
+enum34==1.1.8
 elementpath==2.0.5
 et-xmlfile==1.1.0
 filelock==3.0.12
